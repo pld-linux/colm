@@ -65,7 +65,8 @@ Dokumentacja do pakietu COLM.
 %package -n vim-syntax-colm
 Summary:	Vim syntax file for COLM
 Summary(pl.UTF-8):	Plik składni Vima dla pakietu COLM
-Group:		Documentation
+Group:		Applications/Editors
+Requires:	vim-rt
 BuildArch:	noarch
 
 %description -n vim-syntax-colm
